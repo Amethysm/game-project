@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1738821889 source:c:\school stuff\c++ susge\amongus\main.cpp
+	<iostream>
+	<SDL.h>
+
