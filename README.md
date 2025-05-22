@@ -1,13 +1,13 @@
-# GAME SHOOT-EM-UP 2D
+# GAME: Just Shapes and Shoot
 
 ## Thông tin sinh viên
-- Họ và tên: [Triệu Tiến Dũng]
-- MSSV: [24021436]
+- Họ và tên: Triệu Tiến Dũng
+- MSSV: 24021436
 
 ## Giới thiệu
 Game bắn súng 2D với người chơi điều khiển nhân vật di chuyển và bắn để tiêu diệt các kẻ địch hình tam giác và ngũ giác, đồng thời tránh các tia sáng tấn công từ cạnh màn hình.
 
-## Ngưỡng điểm đề xuất: 8.5 - 9.0
+## Ngưỡng điểm đề xuất: 7.5 - 8.5
 
 ## Các tính năng đã thực hiện
 
